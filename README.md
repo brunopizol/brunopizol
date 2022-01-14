@@ -3,7 +3,7 @@
  <img  src="https://github.com/brunopizol/brunopizol/blob/main/reader_img.jfif" align="center" alt="header banner with name em linktree link" />
  <h1 align="center">Hello, folks! 👋</h1>
  <p align="center">My name is Bruno, I am bacharel degree in computer science,
-I'm 26 years old, live in Brazil and currently work as a computer technician!
+I'm 25 years old, live in Brazil and currently work as a computer technician!
 </p>
  
 </p>
