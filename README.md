@@ -1,34 +1,29 @@
-###
-<p align="center">
- <img  src="https://github.com/brunopizol/brunopizol/blob/main/reader_img.jfif" align="center" alt="header banner with name em linktree link" />
- <h1 align="center">Hello, folks! 👋</h1>
- <p align="center">My name is Bruno, I am bacharel degree in computer science,
-I'm 25 years old, live in Brazil and currently work as a computer technician!
-</p>
- 
-</p>
+### Hi everyone, I'm Bruno Pizol Camargo! 👋
+
+- 👨‍💻 Computers network associate degree[2013 - 2014]
+- 👨🏻‍💻 computer science bachelor degree[2015 - 2019]
+- ⏳ 25yr old
+- 🇧🇷 Born in Brazil
 
 
+## About me
 
-   ![unity stuff](https://img.shields.io/badge/tool-unity-green?style=for-the-badge&logo=unity) ![node](https://img.shields.io/badge/tool-node.js-green?style=for-the-badge&logo=nodejs) ![expressjs](https://img.shields.io/badge/framework-express.js-blue?style=for-the-badge&logo=express) ![django](https://img.shields.io/badge/framework-django-blue?style=for-the-badge&logo=django) ![C sharp](https://img.shields.io/badge/code-CSharp-red?style=for-the-badge&logo=Csharp) ![C](https://img.shields.io/badge/code-C-red?style=for-the-badge&logo=C) ![python](https://img.shields.io/badge/code-python-red?style=for-the-badge&logo=python)
-<hr>
-<h1 align="center">Projects</h1>
-<h2 align="center">academic research</h2>
-<p align="center">I spent part of my time at university focusing on image processing and 3D game development using unity. I developed a <a href="https://drive.google.com/file/d/1zGm144yiDmq8R3pE5ZqZf66XYSpd-p5H/view">VR game to assist in the treatment of patients with acrophobia</a> and an <a href="https://drive.google.com/file/d/1QYsnVK3YidNpRjbK_nuc9Jac0MnW1dv1/view">AR application for the treatment of patients with arachnophobia,</a> both focused on research projects and with published papers. I also made an application using raspberry pi 3 that <a href="https://docs.google.com/document/d/12srGHvZRDcTmyLTJmXtsIU6OnC0uFBTq/edit">analyzes dry coffee beans and selects good and bad beans</a>. The application uses python to process the colors of the grain and would be integrated into a machine and would control a stepper motor that would sort the grain, but the project was discontinued.</p>
+My name is Bruno Pizol Camargo, currently i live in Poços de Caldas MG and look for opportunities in game dev /backend dev. I currently study and develop personal projects at Unity and I am also studying nodejs with expressjs and REST API with Vue js.
 
-<h2 align="center"> I’m currently learning </h2>
-<p align="center"> i'm a current studying <b>node.js</b>, <b>vue.js</b> and <b>react</b> with the goal of becoming a fullstack developer while trying to get a game dev job</p>
-<!--
-**brunopizol/brunopizol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### social networks
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-ffac33?=flat-circle&labelColor=black&logo=linkedin&logoColor=ffac33&link=https://www.linkedin.com/in/brunopizolcamargo/)](https://www.linkedin.com/in/brunopizolcamargo/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ffac33?style=flat-circle&labelColor=black&logo=Instagram&logoColor=ffac33&link=https://www.instagram.com/brunopizol_/)](https://www.instagram.com/brunopizol_/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-ffac33?style=flat-circle&labelColor=black&logo=Twitter&logoColor=ffac33&link=https://twitter.com/brunopizol_)](https://twitter.com/brunopizol_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies
+<div>
+  <img align="center" alt="Icon-Csharp" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Icon-unity" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
+  <img align="center" alt="Icon-Js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Icon-Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+ <img align="center" alt="Icon-Express" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Icon-Nodejs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Icon-MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+</div>
