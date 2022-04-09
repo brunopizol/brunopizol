@@ -12,12 +12,15 @@ My name is Bruno Pizol Camargo, currently i live in Poços de Caldas MG and look
 
 
 ## Projects
-games made in gamejams:
+### games made in gamejams:
+
 Brasilvania: https://brunopizol.itch.io/brasilvania
+
 Pareidolia: https://brunopizol.itch.io/pareidolia
+
 El gatuno: https://gamejolt.com/games/elgatuno/574579
 
-Papers about scientific research:
+### Papers about scientific research:
 
 DESENVOLVIMENTO DE UM SELETOR DE GRÃOS DE BAIXO CUSTO APLICADO Á AGROINDUSTRIA DO CAFÉ: https://docs.google.com/document/d/12srGHvZRDcTmyLTJmXtsIU6OnC0uFBTq/edit?rtpof=true&sd=true
 
