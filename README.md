@@ -1,47 +1,75 @@
-### Hi everyone, I'm Bruno Pizol Camargo! 👋
+<h1 align="center">Hi there 👋, I'm Bruno Pizol Camargo</h1>
 
-- 👨‍💻 Computers network associate degree[2013 - 2014]
-- 👨🏻‍💻 computer science bachelor degree[2015 - 2019]
-- ⏳ 25yr old
-- 🇧🇷 Born in Brazil
+<p align="center">
+  🎮 Game Developer • 🖥️ Backend Developer • 🇧🇷 Based in Brazil
+</p>
 
+---
 
-## About me
+## 👨‍💻 About Me
 
-My name is Bruno Pizol Camargo, currently i live in Poços de Caldas MG and look for opportunities in game dev /backend dev. I currently study and develop personal projects at Unity and I am also studying nodejs with expressjs and REST API with Vue js.
+I'm a software developer passionate about games, backend systems, and creative problem solving.  
+I live in Poços de Caldas - MG, Brazil 🇧🇷 and actively work on personal and collaborative projects in game development and backend technologies.
 
+### 🎓 Education
+- 🎓 Associate Degree in Computer Networks (2013–2014)
+- 🎓 Bachelor's Degree in Computer Science (2015–2019)
 
-## Projects
-### games made in gamejams:
+### 🧠 Current Focus
+- 🕹️ Game Development with **Unity** and **C#**
+- 🌐 Backend Development with **.NET** and **ASP.NET Core**
+- 🖥️ Web Interfaces using **Vue.js**
+- 🧪 Exploring **REST APIs**, **microservices**, and **real-time apps**
 
-Brasilvania: https://brunopizol.itch.io/brasilvania
+---
 
-Pareidolia: https://brunopizol.itch.io/pareidolia
+## 🚀 Featured Projects
 
-El gatuno: https://gamejolt.com/games/elgatuno/574579
+### 🕹️ Game Jam Creations
+| Game | Description | Link | Status |
+|------|-------------|------|--------|
+| **Brasilvania** | boss rush game with Brazilian folklore themes | [Itch.io](https://brunopizol.itch.io/brasilvania) | 🏆 Game Jam Entry |
+| **Pareidolia** | Psychological horror exploration | [Itch.io](https://brunopizol.itch.io/pareidolia) | 🎮 Prototype |
+| **El Gatuno** | Platformer with feline agility | [Game Jolt](https://gamejolt.com/games/elgatuno/574579) | 🕹️ Released |
 
-### Papers about scientific research:
+### 📚 Research Papers
+- ☕ [**Low-Cost Coffee Grain Selector**](https://docs.google.com/document/d/12srGHvZRDcTmyLTJmXtsIU6OnC0uFBTq/edit?rtpof=true&sd=true)
+- 🕷️ [**FobiAR** – AR for Arachnophobia](https://drive.google.com/file/d/1QYsnVK3YidNpRjbK_nuc9Jac0MnW1dv1/view)
+- 🧗 [**eFob** – Immersive VR for Acrophobia](https://drive.google.com/file/d/1zGm144yiDmq8R3pE5ZqZf66XYSpd-p5H/view)
 
-DESENVOLVIMENTO DE UM SELETOR DE GRÃOS DE BAIXO CUSTO APLICADO Á AGROINDUSTRIA DO CAFÉ: https://docs.google.com/document/d/12srGHvZRDcTmyLTJmXtsIU6OnC0uFBTq/edit?rtpof=true&sd=true
+---
 
-FobiAR: Implementação de um sistema de realidade aumentada para dispositivos móveis voltado ao tratamento de aracnofobia: https://drive.google.com/file/d/1QYsnVK3YidNpRjbK_nuc9Jac0MnW1dv1/view
+## 💻 Tech Stack
 
-eFob: Implementação de um Sistema de RV Imersivo voltado ao Tratamento de Acrofobia: https://drive.google.com/file/d/1zGm144yiDmq8R3pE5ZqZf66XYSpd-p5H/view
-
-
-### social networks
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-ffac33?=flat-circle&labelColor=black&logo=linkedin&logoColor=ffac33&link=https://www.linkedin.com/in/brunopizolcamargo/)](https://www.linkedin.com/in/brunopizolcamargo/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ffac33?style=flat-circle&labelColor=black&logo=Instagram&logoColor=ffac33&link=https://www.instagram.com/brunopizol_/)](https://www.instagram.com/brunopizol_/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-ffac33?style=flat-circle&labelColor=black&logo=Twitter&logoColor=ffac33&link=https://twitter.com/brunopizol_)](https://twitter.com/brunopizol_)
-
-
-### Technologies
-<div>
-  <img align="center" alt="Icon-Csharp" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Icon-unity" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
-  <img align="center" alt="Icon-Js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Icon-Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
- <img align="center" alt="Icon-Express" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Icon-Nodejs" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Icon-MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="30" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="Python"/>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunopizol&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopizol&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brunopizolcamargo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/brunopizol_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/brunopizol_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+_Always learning, building, and growing. Thanks for stopping by! 🚀_
