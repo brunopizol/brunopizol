@@ -1,75 +1,205 @@
-<h1 align="center">Hi there 👋, I'm Bruno Pizol Camargo</h1>
+# Hi there 👋, I'm Bruno Pizol Camargo
 
 <p align="center">
-  🎮 Game Developer • 🖥️ Backend Developer • 🇧🇷 Based in Brazil
+  <strong>Senior Backend Software Engineer • .NET / C# • Distributed Systems • Event-Driven Architecture</strong>
+</p>
+
+<p align="center">
+Building resilient, high-scale backend systems focused on performance, observability and distributed architectures.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software developer passionate about games, backend systems, and creative problem solving.  
-I live in Poços de Caldas - MG, Brazil 🇧🇷 and actively work on personal and collaborative projects in game development and backend technologies.
+I'm a **Senior Software Engineer** based in Brazil with **8+ years of experience** designing and evolving scalable backend systems.
 
-### 🎓 Education
-- 🎓 Associate Degree in Computer Networks (2013–2014)
-- 🎓 Bachelor's Degree in Computer Science (2015–2019)
+My primary expertise is in **.NET / C#**, building distributed systems, event-driven architectures and high-throughput APIs for critical business domains such as:
 
-### 🧠 Current Focus
-- 🕹️ Game Development with **Unity** and **C#**
-- 🌐 Backend Development with **.NET** and **ASP.NET Core**
-- 🖥️ Web Interfaces using **Vue.js**
-- 🧪 Exploring **REST APIs**, **microservices**, and **real-time apps**
+* Financial systems (Banking-as-a-Service)
+* Healthcare platforms
+* Computer vision systems
+* Enterprise web applications
 
----
+Throughout my career, I have worked on:
 
-## 🚀 Featured Projects
+* High-volume transactional systems
+* Microservices architectures
+* Event-driven integrations
+* API design and distributed observability
+* Performance optimization and scalability
+* Backend modernization and legacy migration
 
-### 🕹️ Game Jam Creations
-| Game | Description | Link | Status |
-|------|-------------|------|--------|
-| **Brasilvania** | boss rush game with Brazilian folklore themes | [Itch.io](https://brunopizol.itch.io/brasilvania) | 🏆 Game Jam Entry |
-| **Pareidolia** | Psychological horror exploration | [Itch.io](https://brunopizol.itch.io/pareidolia) | 🎮 Prototype |
-| **El Gatuno** | Platformer with feline agility | [Game Jolt](https://gamejolt.com/games/elgatuno/574579) | 🕹️ Released |
-
-### 📚 Research Papers
-- ☕ [**Low-Cost Coffee Grain Selector**](https://docs.google.com/document/d/12srGHvZRDcTmyLTJmXtsIU6OnC0uFBTq/edit?rtpof=true&sd=true)
-- 🕷️ [**FobiAR** – AR for Arachnophobia](https://drive.google.com/file/d/1QYsnVK3YidNpRjbK_nuc9Jac0MnW1dv1/view)
-- 🧗 [**eFob** – Immersive VR for Acrophobia](https://drive.google.com/file/d/1zGm144yiDmq8R3pE5ZqZf66XYSpd-p5H/view)
+I also have hands-on experience with **Node.js/NestJS**, **Python**, and **React.js**, which allows me to contribute effectively across full-stack environments when needed.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Current Focus
 
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="30" alt="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="Python"/>
-</div>
+* Distributed Systems Architecture
+* High-Performance Backend APIs
+* Event-Driven Systems
+* Observability & Distributed Tracing
+* Cloud-Native Systems
+* Performance Engineering
+* System Design
+
+---
+
+## 💼 Professional Highlights
+
+### 🏦 Financial Systems & High-Scale APIs
+
+Design and evolution of transactional microservices for Banking-as-a-Service environments using:
+
+* .NET 8 / C#
+* RabbitMQ
+* Kafka
+* Redis
+* RavenDB
+* DynamoDB
+* OpenTelemetry
+* Docker
+* AWS / Azure DevOps
+
+**Focus areas:**
+
+* Low-latency processing
+* Distributed tracing
+* Resilience patterns
+* Event-driven integrations
+
+---
+
+### ⚕️ Healthcare Platform Modernization
+
+Modernization of legacy systems into microservices using:
+
+* Node.js
+* NestJS
+* TypeScript
+* PostgreSQL
+* GraphQL
+* Redis
+* ArgoCD / Rancher
+
+---
+
+### 👁️ Computer Vision & AI Systems
+
+Architecture and development of real-time computer vision systems using:
+
+* Python
+* OpenCV
+* YOLO
+* Flask
+* Redis
+* Event-driven integrations with .NET services
+
+---
+
+### 🎓 Technical Education & Research
+
+Technical instructor and researcher focused on:
+
+* .NET Backend Development
+* REST APIs
+* Software Architecture
+* DDD
+* SQL & Data Modeling
+* Computer Vision
+* AR / VR
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Distributed Systems
+
+```txt
+.NET 8 / C#
+ASP.NET Core
+Node.js / NestJS
+Python / Flask
+RabbitMQ
+Kafka
+Redis
+PostgreSQL
+RavenDB
+DynamoDB
+GraphQL
+REST APIs
+```
+
+### Observability & Infrastructure
+
+```txt
+OpenTelemetry
+Grafana
+Elasticsearch
+Docker
+AWS
+Azure DevOps
+GitLab CI
+ArgoCD
+Rancher
+Nginx
+```
+
+### Frontend
+
+```txt
+React.js
+TypeScript
+Bootstrap
+Modern Web Architectures
+```
+
+---
+
+## 📌 Areas of Interest
+
+* Distributed Systems
+* Event-Driven Architecture
+* Performance Optimization
+* Backend Scalability
+* System Design
+* Observability
+* Computer Vision
+* Applied Artificial Intelligence
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunopizol&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopizol&layout=compact&theme=radical" height="165">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brunopizol&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopizol&layout=compact&langs_count=8&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunopizolcamargo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/brunopizol_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/brunopizol_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brunopizolcamargo/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-_Always learning, building, and growing. Thanks for stopping by! 🚀_
+## ⚡ Engineering Philosophy
+
+> Build systems that are scalable, observable, resilient and maintainable.
+
+---
+
+*Always learning, building and solving complex engineering problems.*
