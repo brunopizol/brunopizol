@@ -170,21 +170,6 @@ Modern Web Architectures
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=brunopizol&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopizol&layout=compact&langs_count=8&hide_border=true"
-    height="170"
-  />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
